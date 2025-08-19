@@ -11,9 +11,23 @@ It enables users to create, edit, and manage blog posts with secure authenticati
 ## 🖼️ Screenshots  
 
 🚪 **Landing Page**  
+
+![Landing Page](https://raw.githubusercontent.com/Nayasha2003/Instablog-Public/75e539a43a0b1b97c7a8cee395df00b7367929ab/InstaBlog-Public/client/src/assets/1.png)
+
+
 📝 **Blog Editor**  
+
+![Published Blogs](https://raw.githubusercontent.com/Nayasha2003/Instablog-Public/75e539a43a0b1b97c7a8cee395df00b7367929ab/InstaBlog-Public/client/src/assets/2.png)
+
+
 👤 **User Dashboard**  
+
+![Subscription](https://raw.githubusercontent.com/Nayasha2003/Instablog-Public/75e539a43a0b1b97c7a8cee395df00b7367929ab/InstaBlog-Public/client/src/assets/3.png)
+
+
 🔐 **Login Page**  
+
+![Login Page](https://raw.githubusercontent.com/Nayasha2003/Instablog-Public/75e539a43a0b1b97c7a8cee395df00b7367929ab/InstaBlog-Public/client/src/assets/4.png)
 
 ---
 
